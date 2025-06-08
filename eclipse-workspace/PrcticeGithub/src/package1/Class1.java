@@ -9,6 +9,11 @@ System.out.println("this is github project");
 
 
 		//System.out.println("the system has been changed");
+
+		int a=20;
+
+		int b=30;
+		int sum=50;
 	}
 
 }
